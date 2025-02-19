@@ -56,7 +56,7 @@
 ## 5.Cơ sở hạ tầng mạng
 - Là nền tảng hỗ trợ mạng, cung cấp kênh ổn định và đáng tin cậy để chúng ta có thể truyền thông 
 - Gồm 3 thành phần: thiết bị đầu cuối, thiết bị trung gian và mạng lưới truyền thông
-  ![Cơ sở hạ tầng mạng](https://github.com/hoangmanhdungg/Training-FIL/blob/Networking-Basic/image/Screenshot%202025-02-17%20214221.png?raw=true)
+  ![Cơ sở hạ tầng mạng](https://github.com/hoangmanhdungg/Training-FIL/blob/main/images/Screenshot%202025-02-17%20214221.png?raw=true)
 ### 5.1.Thiết bị đầu cuối
 - Là nguồn hoặc đích của tin nhắn truyền qua mạng
 - VD: máy tính, máy in, điện thoại, thiết bị di động,...
